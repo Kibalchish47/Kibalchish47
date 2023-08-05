@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Python (for data analysis) and Haskell. 
 - 👯 I’m looking to collaborate on projects related to pure and applied mathematics in the fields of: real and complex analysis, topology, algebraic geometry, group theory, number theory...etc.
 - 🤔 I’m looking for help with learning Haskell for mathematical applications...
