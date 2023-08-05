@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with learning Haskell for mathematical applications...
 - 📫 How to reach me: kibalchishthecoder@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak many languages, among them I know French, Russian, English (obviously) and many more! Right now, I am learning Mandarin and Japanese. 
+- ⚡ Fun fact: I speak many languages, such as French, Russian, English (obviously), Arabic, and many more! Right now, I am learning Mandarin and Japanese. 
 -->
