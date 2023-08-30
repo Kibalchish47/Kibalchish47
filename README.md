@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kibalchish47&show_icons=true&theme=tokyonight">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kibalchish47&show_icons=true&theme=tokyonight">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibalchish47&layout=compact">
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
