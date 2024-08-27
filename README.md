@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am Daniel Dia :wave:</samp></h3>
 <p align="center"><br>
   <samp>
-    「 BS in Mathematics and BS in Computer Science @ <b>AUB</b> 🐦 」<br>
+    「 BS in Mathematics and BS in Computer & Communications Engineering (CCE) @ <b>AUB</b> 🐦 」<br>
   </samp>
 </p>
 <details align="center">
