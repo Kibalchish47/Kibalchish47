@@ -6,7 +6,7 @@
 </p>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://kibalchish47.github.io/">Learn more about me!</a>
+    <a href="https://kibalchish47.github.io/">Learn more about me!</a>
   </p>
   <p align="center">
     How to reach me: <a href="dmd13@mail.aub.edu">dmd13@mail.aub.edu</a>
