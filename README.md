@@ -32,7 +32,8 @@
 <p align="center">
 <samp>
 🎲 Probability & Statistics &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 Machine & Deep Learning &nbsp;&nbsp;•&nbsp;&nbsp; 📡 Information Theory<br>
-⚙️ Dynamical Systems &nbsp;&nbsp;•&nbsp;&nbsp; 📐 Linear & Abstract Algebra
+⚙️ Dynamical Systems &nbsp;&nbsp;•&nbsp;&nbsp; 📐 Linear & Abstract Algebra &nbsp;&nbsp;•&nbsp;&nbsp; 📉 Mathematical Analysis<br>
+🔢 Numerical Methods
 </samp>
 </p>
 
