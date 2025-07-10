@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Computer & Communications Engineering student at <b>AUB</b>, exploring the intersection of pure mathematics 📈, software 💻, and finance 🧠.
+    Computer & Communications Engineering student at <b>AUB</b>, exploring the intersection of (pure & applied) mathematics 📈, software 💻, and (quant) finance 🧠.
   </samp>
 </p>
 
@@ -32,7 +32,7 @@
 <p align="center">
 <samp>
 🎲 Probability & Statistics &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 Machine & Deep Learning &nbsp;&nbsp;•&nbsp;&nbsp; 📡 Information Theory<br>
-⚙️ Dynamical Systems &nbsp;&nbsp;•&nbsp;&nbsp; 📐 Linear & Abstract Algebra &nbsp;&nbsp;•&nbsp;&nbsp; 📉 Mathematical Analysis<br>
+⚙️ Dynamical Systems & Ergodic Theory &nbsp;&nbsp;•&nbsp;&nbsp; 📐 Linear & Abstract Algebra &nbsp;&nbsp;•&nbsp;&nbsp; 📉 Mathematical Analysis<br>
 🔢 Numerical Methods
 </samp>
 </p>
