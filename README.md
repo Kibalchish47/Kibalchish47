@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Computer & Communications Engineering student at <b>AUB</b>, exploring the intersection of (pure & applied) mathematics 📈, software 💻, and (quant) finance 🧠.
+    Computer & Communications Engineering (CCE) & Pure Mathematics student at <b>AUB</b>, exploring the intersection of (pure & applied) mathematics 📈, nonsmooth dynamics 🚄, (high-performance) software 💻, communication systems 📡, and (quant) finance 🧠.
   </samp>
 </p>
 
